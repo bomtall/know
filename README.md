@@ -1,0 +1,2 @@
+# know
+Obsidian repo
