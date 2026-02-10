@@ -1,2 +1,2 @@
 # know
-Obsidian repo
+Obsidian repo with useful knowledge snippets.
